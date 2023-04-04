@@ -1,6 +1,6 @@
 # Catima
 
-Perl module to manipulate Catima loyalty passes.
+Perl module to manipulate [Catima loyalty passes](https://github.com/CatimaLoyalty).
 
 The module provides two classes: `Catima` and `Pass`. 
 
